@@ -1,0 +1,55 @@
+candidate:
+  name: Umer
+  location: Islamabad, Pakistan
+  timezone: PKT (UTC+5)
+  available_timezones: ["UTC+0", "UTC+3", "UTC+5", "UTC+6", "UTC+8"]
+  languages: [English, Urdu]
+  willing_to_do_video_calls: true
+  min_hourly_rate: 8
+
+skills:
+  - Python
+  - Data Science
+  - Machine Learning
+  - SQL
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - AI tools
+  - Teaching / Tutoring
+  - GCSE Mathematics
+  - GCSE Sciences
+  - Computer Science tutoring
+
+certifications: []
+
+experience:
+  - "2 years online tutoring (Maths, Sciences, CS, Python, AI)"
+  - "Data Science Society Finance Officer at FAST NUCES"
+  - "AI video detection tool (distinguishes AI-generated vs human video)"
+  - "LinkedIn carousel content creation"
+
+education:
+  - "BS Data Science, FAST NUCES Islamabad (current)"
+
+resumes:
+  data_science: "resumes/resume_data_science.docx"
+  teaching: "resumes/resume_tutor_teaching.docx"
+  ai_engineer: "resumes/resume_ai_engineer.docx"
+
+disqualify_if:
+  - "requires US work authorization"
+  - "requires EU residency"
+  - "requires security clearance"
+  - "must be based in"
+  - "only accepting applications from"
+  - "must have active CPA"
+  - "must have active CFA"
+
+target_job_types:
+  - "remote data science"
+  - "remote machine learning"
+  - "remote python developer"
+  - "online tutor"
+  - "remote AI engineer"
+  - "remote data analyst"

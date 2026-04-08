@@ -1,0 +1,9 @@
+playwright
+requests
+beautifulsoup4
+apscheduler
+flask
+anthropic
+python-dotenv
+plyer
+pyyaml
